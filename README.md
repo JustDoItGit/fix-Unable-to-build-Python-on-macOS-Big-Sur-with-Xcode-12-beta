@@ -1,6 +1,13 @@
 # fix-Unable-to-build-Python-on-macOS-Big-Sur-with-Xcode-12-beta
+
+## My computer configuration
+iMac (Retina 5K, 27-inch, 2019)  
+3 GHz 六核Intel Core i5  
+I formaed the hard drive, then reinstall the system big sur.
+
 ## This is a screenshot of my process
 ![image](https://github.com/LearningChanging/fix-Unable-to-build-Python-on-macOS-Big-Sur-with-Xcode-12-beta/blob/main/images/inporcess_image.png)
+
 ## this is my readline zx zblib .zshrc config
 ```text
 #If you need to have openssl@1.1 first
